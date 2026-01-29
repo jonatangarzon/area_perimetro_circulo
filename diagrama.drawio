@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="MR0NH8gMInKzSYO1KZt0" name="Page-1">
+        <mxGraphModel dx="532" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="245" y="170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="inisio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#00FFFF;strokeColor=#00FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="80" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="245" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="r" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCCC00;strokeColor=#CCCC00;" vertex="1" parent="1">
+                    <mxGeometry x="185" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;a=pi*r&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;&lt;br&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sup&gt;p=2pi*r&lt;/sup&gt;&lt;/span&gt;&lt;/div&gt;&lt;strong class=&quot;Yjhzub&quot;&gt;&lt;span class=&quot;mTEjhd&quot;&gt;&lt;span class=&quot;dteT0b&quot;&gt;&lt;div style=&quot;position: relative; direction: ltr;display: inline-block;&quot; data-xpm-copy-root=&quot;&quot;&gt;&lt;img data-atf=&quot;1&quot; data-csiid=&quot;lAR6af_dCeyGwbkP0erN2Q4_7&quot; style=&quot;pointer-events: none; position: absolute; height: 100%; width: 100%; left: 0; top: 0;&quot; src=&quot;data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==&quot; role=&quot;presentation&quot; draggable=&quot;false&quot; data-xpm-latex=&quot;\pi&quot; aria-hidden=&quot;true&quot;&gt;&lt;div style=&quot;inset: 0px; opacity: 0.001; overflow: hidden; position: absolute; user-select: none;&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;π&lt;/mi&gt;pi&lt;/math&gt;&lt;/div&gt;&lt;svg style=&quot;vertical-align: -0.013em; overflow: visible; user-select: none;&quot; viewBox=&quot;0 -0.428 0.558 0.441&quot; height=&quot;0.441em&quot; width=&quot;0.558em&quot; direction=&quot;ltr&quot; aria-hidden=&quot;true&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;text transform=&quot;translate(0,0)&quot; style=&quot;font-family: XITSMath-Regular; font-size: 1px&quot; fill=&quot;#0A0A0A&quot;&gt;&lt;/text&gt;&lt;/svg&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=#FFFF33;" vertex="1" parent="1">
+                    <mxGeometry x="185" y="280" width="115" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;" edge="1" parent="1" source="8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="245" y="530" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="a,p" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#009900;strokeColor=#009900;" vertex="1" parent="1">
+                    <mxGeometry x="185" y="380" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="fin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#00FFFF;strokeColor=#00FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="530" width="130" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
